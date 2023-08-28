@@ -23,10 +23,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
-  <a href="https://github.com/JoaoFranco03/photography-portfolio">
-    <img src="dist/assets/Logo.jpg" alt="Logo" width="80" height="80">
-  </a>
+<div align="center">  
 
   <h3 align="center">Photography Portfolio</h3>
 
@@ -70,7 +67,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/JoaoFranco03/photography-portfolio)
 
-This project is a web-based portfolio that beautifully showcases the photography work of Sophia Williams, a fictional photographer. The portfolio was skillfully built using a combination of powerful front-end technologies, including Tailwind CSS, CSS, HTML, and JavaScript.
+This project is a web-based portfolio that beautifully showcases the photography work of Ainhoa Sánchez, a fictional photographer. The portfolio was skillfully built using a combination of powerful front-end technologies, including Tailwind CSS, CSS, HTML, and JavaScript.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -173,5 +170,5 @@ Project Link: [https://github.com/JoaoFranco03/photography-portfolio/](https://g
 [js-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [license-url]: https://github.com/JoaoFranco03/photography-portfolio/blob/main/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/joão-franco-452161195/
+[linkedin-url]: https://www.linkedin.com/in/endermejia/
 [product-screenshot]: dist/assets/mockup.png
